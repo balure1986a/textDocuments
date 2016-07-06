@@ -1,0 +1,59 @@
+Shortcuts for TERMINAL:
+******************************************************
+
+Ctrl + A = 
+	Move cursor to beginning of line
+Ctrl + E = 
+	Move cursor to end of line
+Ctrl + C = 
+	kills the current process.
+Ctrl + Z = 
+	sends the current process to the background.
+Ctrl + D = 
+	logs you out.
+Ctrl + U = 
+	deletes the current line.
+Ctrl + K = 
+	deletes the command from the cursor right.
+Ctrl + W = 
+	deletes the word before the cursor.
+Ctrl + L = 
+	clears the terminal output.
+Shift + Ctrl + C = 
+	copy the highlighted command to the clipboard.
+Shift + Ctrl + V (or Shift + Insert) = 
+	pastes the contents of the clipboard.
+Shift + Ctrl + T = 
+	opens another terminal tab
+Alt + F = 
+	moves forward one word.
+Alt + B = 
+	moves backward one word.
+Arrow Up/Down = 
+	browse command history
+Shift + PageUp / PageDown = 
+	Scroll terminal output
+Ctrl + R = 
+	finds the last command matching the entered letters.
+Enter a letter, followed by Tab + Tab = 
+	lists the available commands beginning with those letters.
+
+Shortcuts for DESKTOP
+******************************************************
+Ctrl + A = Select all
+Ctrl + C = Copy the highlighted content to clipboard
+Ctrl + V = Paste the clipboard content
+Ctrl + N = New (Create a new document, not in terminal)
+Ctrl + O = Open a document
+Ctrl + S = Save the current document
+Ctrl + P = Print the current document
+Ctrl + W = Close the close document
+Ctrl + Q = Quit the current application
+
+Alt + Tab = Switch between open programs
+Ctrl + Alt + L = Lock the screen.
+Alt + F4 = closes the current window.
+Alt + F9 = minimizes the current window.
+Alt + F10 =  maximizes the current window.
+Alt + Space = opens the window menu.
+
